@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.colecao-botoes .botao {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    border: none;
+    font-weight: bolder;
+}
